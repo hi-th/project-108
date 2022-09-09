@@ -1,0 +1,38 @@
+body {
+    font-family: 'Patrick Hand', cursive;
+    background: cornflowerblue; 
+    text-align: center;
+}
+
+.header_div {
+    background: darkcyan ;
+    color: black;
+}
+
+.header_div p{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 25px;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: normal;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position : fixed;
+    color: deepskyblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: darkcyan;
+    line-height: 3;
+}
+
+img {
+    height: 500px;
+    width: 400px;
+}
